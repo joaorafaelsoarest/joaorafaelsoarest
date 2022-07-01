@@ -11,3 +11,4 @@ Country boy who likes a home office, I also like the technologies of the javascr
    </a> 
  </div>
   
+<a href="https://app.daily.dev/Joaorafaelst"><img src="https://api.daily.dev/devcards/53c330f812f548f79587eaa82d31c4c7.png?r=900" width="250" alt="João Rafael Soares's Dev Card"/></a>
