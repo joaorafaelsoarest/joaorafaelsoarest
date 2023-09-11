@@ -6,4 +6,4 @@
    </a> 
  </div>
   
-<a href="https://app.daily.dev/Joaorafaelst"><img src="https://api.daily.dev/devcards/53c330f812f548f79587eaa82d31c4c7.png?r=900" width="250" alt="João Rafael Soares's Dev Card"/></a>
+<a href="https://app.daily.dev/Joaorafaelsoarest"><img src="https://api.daily.dev/devcards/53c330f812f548f79587eaa82d31c4c7.png?r=8i2" width="400" alt="João Rafael Soares's Dev Card"/></a>
