@@ -1,9 +1,22 @@
-### Hello. You can call me João 👋
+# Hi, I'm João Rafael Soares 👋
 
-  <div alignt="center"> 
-   <a href="https://www.linkedin.com/in/joaorafaelsoarest/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a> 
- </div>
-  
-<a href="https://app.daily.dev/Joaorafaelsoarest"><img src="https://api.daily.dev/devcards/53c330f812f548f79587eaa82d31c4c7.png?r=8i2" width="400" alt="João Rafael Soares's Dev Card"/></a>
+## Backend Engineer focused on APIs and integrations
+
+I'm a software developer focused on backend development, REST APIs, and integrations. I enjoy building clear interfaces, exploring asynchronous communication, and improving software through practical projects.
+
+## What I work on
+
+- Backend services and REST APIs
+- Service integrations and asynchronous messaging
+- Maintainable code and automated testing
+- Continuous learning through hands-on projects
+
+## Technologies represented in my projects
+
+- **Backend:** Node.js, Java, Python
+- **Messaging:** RabbitMQ, Pub/Sub, Kafka
+- **Testing:** JUnit, Mockito, Jest
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/joaorafaelsoarest/)
